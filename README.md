@@ -8,7 +8,7 @@ A PhpMyAdmin Theme with lots of border radii and box shadows
 The theme was built while diving into sass, using firefox 12, and as far as I am aware is compatible with firefox 11+, opera 11+, chrome 12+, I don't have a windows machine at the moment so I could not test it on IE
 
 ### Requirements
-* phpMyAdmin 3.52 or later
+นางสาวธนพร จันทเสน ม.4/7 เลขที่ 22
 
 ### Usage
 * Extract the contents into the theme directory
